@@ -15,3 +15,9 @@ Y le daremos al botón de descargar como viene marcado en la imagen adjuntada, c
 
 __·Linux :__ En este caso es algo diferente, lo primero que haremos es como arriba, entraremos en la web y descargaremos nuestro archivo pero para Linux y cuando se nos 
 instale, iremos a nuestra consola de Linux y entraremos en la ruta donde la hemos descargado, para a continuación escribir este comando *sudo apt-get install nombre_paquete*.
+
+### Plugin de Python.
+
+Una vez dentro, no importa que sistema operativo, vamos a irnos al apartado de extensiones.
+![1](assets/2.png)
+
