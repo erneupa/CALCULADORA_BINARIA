@@ -10,4 +10,8 @@ tiene una consola.
 ### Para instalarlo, es muy simple, adjunto para diferente sistema operativo.
 
 __·Windows:__ Para Windows, entraremos en la siguiente página web ['PULSE AQUÍ'](https://code.visualstudio.com/), una vez dentro, veremos algo similar a esto.
-![SI](assets/1.png)
+![1](assets/1.png)
+Y le daremos al botón de descargar como viene marcado en la imagen adjuntada, cuando esté descargada, entramos y yasta.
+
+__·Linux :__ En este caso es algo diferente, lo primero que haremos es como arriba, entraremos en la web y descargaremos nuestro archivo pero para Linux y cuando se nos 
+instale, iremos a nuestra consola de Linux y entraremos en la ruta donde la hemos descargado, para a continuación escribir este comando *sudo apt-get install nombre_paquete*.
