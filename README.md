@@ -9,4 +9,4 @@ tiene una consola.
 
 ### Para instalarlo, es muy simple, adjunto para diferente sistema operativo.
 
-__Windows__ hola
+__·Windows:__ Para Windows, entraremos en la siguiente página web ['PULSE AQUÍ'](https://code.visualstudio.com/) 
