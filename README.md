@@ -9,4 +9,5 @@ tiene una consola.
 
 ### Para instalarlo, es muy simple, adjunto para diferente sistema operativo.
 
-__·Windows:__ Para Windows, entraremos en la siguiente página web ['PULSE AQUÍ'](https://code.visualstudio.com/) 
+__·Windows:__ Para Windows, entraremos en la siguiente página web ['PULSE AQUÍ'](https://code.visualstudio.com/), una vez dentro, veremos algo similar a esto.
+![SI](PRUEBAS/assets/1.png)
