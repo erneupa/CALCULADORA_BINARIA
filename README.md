@@ -19,5 +19,14 @@ instale, iremos a nuestra consola de Linux y entraremos en la ruta donde la hemo
 ### Plugin de Python.
 
 Una vez dentro, no importa que sistema operativo, vamos a irnos al apartado de extensiones.
-![1](assets/2.png)
+![2](assets/2.png)
 
+Una vez aquí, buscaremos el plugin de Python y lo instalaremos.
+![3](assets/3.png)
+
+Ya estaría todo preparado para ejecutarlo.
+
+### Ejecución.
+
+Para ejecutarlo, es muy simple, en la esquina superior derecha, aparecerá un pley, el cual pincharemos sobre el y se nos ejecutará en una pequeña terminal que aparece debajo de nuestro codigo.
+![4](assets/4.png)
