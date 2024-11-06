@@ -8,3 +8,5 @@ posibilidad de descargarnos plugins y para este caso, nos descargaremos uno para
 tiene una consola.
 
 #### Para instalarlo, es muy simple, adjunto para diferente sistema operativo.
+
+__Windows__ hola
